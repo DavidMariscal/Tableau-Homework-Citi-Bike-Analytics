@@ -128,7 +128,16 @@ Dahsboard 2:
 
  Story 1
 
+BASED ON DATA REGARDING THE BEHAVIOR OF FEMAL`S USING THE NYC BIKE SYSTEM, I NOTICED, THEY ARE NOT SO WILLING TO USE THE SYSTEM. IT MIGHT BE TO THE FACT THAT APPARENTLY FOR THEM COULD NOT BE A SAFETY SYSTEM OR NOT VERY ATTRACTIVE. 
+
+<p align="left">
+  <img src="https://github.com/DavidMariscal/Tableau-Homework-Citi-Bike-Analytics/blob/master/tableau_images/Story%201.png" width="500">
+</p>
+
+THEREFORE, WHAT I PROPOSE TO THE CITY OFFICIALS, IS TO INVITE TO FEMALS TO USE THE BIKE SYSTEM, BY PROVIDING THEM MORE INCENTIVES, LIKE A MAKING A RAFFLE, IF A FEMAL RIDES FOR CERTAIN AMOUNT OF MILE DURING A QUARTER THEY COULD BE WINNING A HELMET OR A BIKE.
 
 Story 2
+<p align="left">
+  <img src="https://github.com/DavidMariscal/Tableau-Homework-Citi-Bike-Analytics/blob/master/tableau_images/Story%201.png" width="500">
+</p>
 
-A text or markdown file with your analysis on the phenomenons you uncovered from the data.
