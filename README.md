@@ -113,6 +113,16 @@ A link to your Tableau Public workbook that includes:
 2 Dashboards
 Dahsboard 1:
 
+<p align="left">
+  <img src="https://github.com/DavidMariscal/Tableau-Homework-Citi-Bike-Analytics/blob/master/tableau_images/Dashboard%201%20Peak%20Hours.png" width="500">
+</p>
+
+Dahsboard 2:
+
+<p align="left">
+  <img src="https://github.com/DavidMariscal/Tableau-Homework-Citi-Bike-Analytics/blob/master/tableau_images/Dashboard%202%20Top%20and%20Bottom%20Journeys.png" width="500">
+</p>
+
 
 1 City Official Map
 1 Story
