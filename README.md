@@ -99,11 +99,7 @@ Next, as a chronic over-achiever:
 Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena.
 The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring.
 
-City officials would also like to see one of the following visualizations:
 
-<p align="left">
-  <img src="https://github.com/DavidMariscal/Tableau-Homework-Citi-Bike-Analytics/blob/master/tableau_images/for%20Officials.png" width="500">
-</p>
 
 Your final submission should include:
 
@@ -125,7 +121,14 @@ Dahsboard 2:
 
 
 1 City Official Map
-1 Story
 
+<p align="left">
+  <img src="https://github.com/DavidMariscal/Tableau-Homework-Citi-Bike-Analytics/blob/master/tableau_images/for%20Officials.png" width="500">
+</p>
+
+ Story 1
+
+
+Story 2
 
 A text or markdown file with your analysis on the phenomenons you uncovered from the data.
