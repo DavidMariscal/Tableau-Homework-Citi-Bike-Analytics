@@ -18,7 +18,9 @@ By what percentage has total ridership grown?
 </p>
 
 How has the proportion of short-term customers and annual subscribers changed?
-
+<p align="left">
+  <img src="https://github.com/DavidMariscal/Tableau-Homework-Citi-Bike-Analytics/blob/master/tableau_images/Short%20term%20vs%20annual.png" width="500">
+</p>
 
 What are the peak hours in which bikes are used during summer months?
 
