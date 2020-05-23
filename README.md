@@ -8,7 +8,9 @@ The following are some questions you may wish to tackle. Do not limit yourself t
 
 
 How many trips have been recorded total during the chosen period?
-
+<p align="center">
+  <img src="https://github.com/DavidMariscal/Tableau-Homework-Citi-Bike-Analytics/blob/master/tableau_images/Total%20number%20of%20trips%20during%202018.png" width="350">
+</p>
 
 By what percentage has total ridership grown?
 
